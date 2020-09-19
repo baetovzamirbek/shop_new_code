@@ -1,0 +1,102 @@
+.site-header {
+    line-height: 1.5;
+    padding: 0 55px;
+    border-bottom: 1px solid #cccccc;
+}
+
+.site-header a {
+    text-decoration: none;
+    color: #555555;
+}
+
+.site-header__logo {
+    margin: 15px 0;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.grid-table {
+    display: table;
+    width: 100%;
+}
+
+.grid-table .grid-item {
+    display: table-cell;
+    float: none;
+}
+
+.list--inline > li {
+    list-style: none;
+    display: inline-block;
+}
+
+.site-nav {
+    padding: 3px 10px;
+}
+
+.site-header__icons-wrapper > a {
+    padding: 3px 10px;
+}
+
+.medium-up--one-half {
+    width: 50%;
+}
+
+.logo-align-left {
+    width: 25%;
+}
+
+.site-header__icons {
+    width: 25%;
+}
+
+.collection-col {
+    border: 1px solid #999999;
+    margin: 80px;
+    padding-top: 20px;
+}
+
+.collection-col h5 {
+    margin: 10px 0;
+}
+
+svg {
+    cursor: pointer;
+}
+
+.group-buttons {
+    margin: 50px 20px;
+}
+
+.group-buttons > button {
+    margin-left: 30px;
+}
+
+.close-btn {
+    color: red;
+    cursor: pointer;
+}
+
+.edit-product {
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+.activity-btn {
+    display: inline-block;
+    cursor: pointer;
+}
+
+img {
+    width: 170px
+}
+
+.table-description {
+    height: 100px;
+    overflow: hidden;
+}
+
+.table-description:hover {
+    overflow: auto;
+    height: 100%;
+}
